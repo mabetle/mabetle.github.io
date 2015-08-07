@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mabetle]]></title>
+  <link href="http://mabetle.github.io/atom.xml" rel="self"/>
+  <link href="http://mabetle.github.io/"/>
+  <updated>2015-08-07T18:47:20+08:00</updated>
+  <id>http://mabetle.github.io/</id>
+  <author>
+    <name><![CDATA[Mabetle]]></name>
+    <email><![CDATA[master@mabetle.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://mabetle.github.io/blog/2014/04/27/welcome/"/>
+    <updated>2014-04-27T21:14:59+08:00</updated>
+    <id>http://mabetle.github.io/blog/2014/04/27/welcome</id>
+    <content type="html"><![CDATA[<p>Welcome to Mabetle!</p>
+
+<h2>Mabetle aims</h2>
+
+<p>Make our life better.</p>
+]]></content>
+  </entry>
+  
+</feed>
